@@ -1,10 +1,12 @@
 ## robo-para-acessar-sites
-É um robô feito em JS usando a dependência *Pupperteer* para acessao ao Google Chrome para pegar informações de site. No momento ele segue o exemplo no site do Pupperteer, que é apenas acessar um site e tirar um print da tela, em seguida fechar a janela do Chrome.
+É um robô feito em JS usando a dependência *Pupperteer* para acessao ao Google Chrome para pegar informações de sites. No momento ele segue o exemplo dado no site do Pupperteer, que é apenas acessar um site e tirar um print da tela, em seguida fechar a janela do Chrome.
 Obs.: No Windows não está funcionando bem.  
 
 ## Dependências  
-Puppeteer na versão 1.9.0  
-npm i puppeteer@1.9.0  
+Puppeteer
+Obs.: Tive problemas no Windons com a verão atual do Puppeteer e precisei fazer o downgrade para a versão 1.9.0  
+npm i puppeteer  
+npm i puppeteer@1.9.0 (Downgrade)  
 
 ## Executar  
 cd pasta-do-projeto  
