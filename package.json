@@ -1,0 +1,23 @@
+{
+  "name": "robo-para-acessar-sites",
+  "version": "1.0.0",
+  "description": "\"# robo-para-acessar-sites\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelffn/robo-para-acessar-sites.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuelffn/robo-para-acessar-sites/issues"
+  },
+  "homepage": "https://github.com/samuelffn/robo-para-acessar-sites#readme",
+  "dependencies": {
+    "puppeteer": "^3.2.0"
+  }
+}
