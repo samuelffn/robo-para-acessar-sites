@@ -11,3 +11,7 @@ npm i puppeteer@1.9.0 (Downgrade)
 ## Executar  
 cd pasta-do-projeto  
 node index.js  
+
+## Testes  
+Tentei testar no Windows e não deu certo.  
+Falta testar no Linux e Mac OSx  
